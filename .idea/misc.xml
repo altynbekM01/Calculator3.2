@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Altynbek/Desktop/Android/Calculator3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Altynbek/Desktop/Android/Calculator3/app/src/main/res/drawable-v24/backcspace.xml" value="0.123" />
+        <entry key="..\:/Users/Altynbek/Desktop/Android/Calculator3/app/src/main/res/layout-land/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Altynbek/Desktop/Android/Calculator3/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Altynbek/Desktop/Calculator3/app/src/main/res/drawable-v24/backcspace.xml" value="0.1585" />
         <entry key="..\:/Users/Altynbek/Desktop/Calculator3/app/src/main/res/layout/activity_main.xml" value="0.128" />
       </map>
